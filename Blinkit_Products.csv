@@ -1,0 +1,269 @@
+﻿brand,category,Sum of margin_percentage,Sum of max_stock_level,Sum of min_stock_level,Sum of mrp,Sum of price,Sum of product_id,product_name,Sum of shelf_life_days
+Acharya Ltd,Pet Care,35,84,20,1033.15,671.55,942001,Cat Food,365
+Acharya PLC,Personal Care,35,88,26,129.54,84.2,492958,Lotion,365
+Agarwal-Dhar,Fruits & Vegetables,25,71,21,1169.91,877.43,516376,Onions,3
+Agate and Sons,Instant & Frozen Food,40,55,19,36.73,22.04,652118,Frozen Biryani,180
+Agate Ltd,Instant & Frozen Food,40,57,16,615.47,369.28,606256,Frozen Biryani,180
+Aggarwal Group,Dairy & Breakfast,20,81,18,449.98,359.98,500739,Bread,7
+"Andra, Mander and Kari",Snacks & Munchies,35,64,27,431.31,280.35,592784,Biscuits,90
+"Anne, Mammen and Khatri",Pet Care,35,97,30,1262.92,820.9,707935,Cat Food,365
+"Apte, Soman and Raju",Pharmacy,20,53,14,109.12,87.3,566052,Pain Reliever,365
+Arora LLC,Personal Care,35,90,22,476.34,309.62,799688,Lotion,365
+Arora-Magar,Personal Care,35,83,28,564.74,367.08,219598,Shampoo,365
+Arya Group,Dairy & Breakfast,20,91,13,288.23,230.58,888807,Bread,7
+"Arya, Sundaram and Pingle",Household Care,25,57,15,29.52,22.14,767398,Dish Soap,365
+Aurora LLC,Fruits & Vegetables,25,88,13,1263.93,947.95,153019,Onions,3
+"Bahl, Jaggi and Nath",Grocery & Staples,15,68,27,834.21,709.08,487931,Sugar,365
+Bahl-Pau,Snacks & Munchies,35,75,12,1502.38,976.55,602241,Nuts,90
+"Bains, Deol and Vaidya",Dairy & Breakfast,20,89,19,983.56,786.85,146840,Bread,7
+Balakrishnan Ltd,Baby Care,30,77,26,391.79,274.25,784827,Baby Wipes,365
+Balakrishnan-Kaur,Pet Care,35,82,16,1211.38,787.4,951463,Pet Treats,365
+Balan Group,Personal Care,35,68,22,1111.42,722.42,600767,Toothpaste,365
+"Balan, Patel and Mall",Fruits & Vegetables,25,94,18,1184.21,888.16,552883,Potatoes,3
+"Balan, Samra and Sekhon",Personal Care,35,64,22,502.18,326.42,647462,Lotion,365
+Balan-Madan,Pharmacy,20,94,30,957.2,765.76,673058,Cough Syrup,365
+Balasubramanian PLC,Grocery & Staples,15,59,16,916.35,778.9,945635,Pulses,365
+Banerjee Inc,Instant & Frozen Food,40,71,11,1622.4,973.44,491314,Ice Cream,180
+Banik-Ratta,Dairy & Breakfast,20,91,30,723.56,578.85,15314,Cheese,7
+Barad and Sons,Fruits & Vegetables,25,51,10,279.45,209.59,848226,Tomatoes,3
+"Barad, Devi and Andra",Pharmacy,20,59,10,728.59,582.87,154179,Pain Reliever,365
+Baral Group,Instant & Frozen Food,40,84,29,310.13,186.08,33955,Frozen Pizza,180
+Baral-Kamdar,Cold Drinks & Juices,30,65,19,1259.17,881.42,378676,Orange Juice,180
+Barman Inc,Personal Care,35,67,20,689.48,448.16,615545,Soap,365
+Barman-Ahluwalia,Household Care,25,88,27,585.65,439.24,91670,Dish Soap,365
+Basu and Sons,Pharmacy,20,89,16,790.54,632.43,992178,Pain Reliever,365
+"Basu, Rout and Mistry",Cold Drinks & Juices,30,93,20,63.36,44.35,300159,Cola,180
+"Basu, Thakur and Rege",Pet Care,35,98,16,1394.68,906.54,256783,Pet Treats,365
+"Batra, Sant and Mandal",Pharmacy,20,63,29,663.56,530.85,451812,Pain Reliever,365
+Batta Inc,Pet Care,35,71,14,167.74,109.03,243235,Cat Food,365
+Batta-Doctor,Household Care,25,96,23,213.43,160.07,448752,Toilet Cleaner,365
+Ben-Ravi,Personal Care,35,82,18,66.23,43.05,473647,Toothpaste,365
+"Bhandari, Bhasin and Palan",Cold Drinks & Juices,30,53,27,1273.71,891.6,107548,Cola,180
+"Bhardwaj, Bhatia and Deshmukh",Fruits & Vegetables,25,70,19,586.92,440.19,473929,Carrots,3
+Bhasin LLC,Cold Drinks & Juices,30,97,10,1037.73,726.41,60619,Iced Tea,180
+"Bhat, Nigam and Hayer",Instant & Frozen Food,40,87,25,803.43,482.06,611575,Frozen Pizza,180
+Bhattacharyya PLC,Cold Drinks & Juices,30,79,26,255.83,179.08,228286,Cola,180
+Bir PLC,Household Care,25,52,22,217.37,163.03,589812,Detergent,365
+"Biswas, Kapoor and Patel",Personal Care,35,95,28,1000.31,650.2,140489,Soap,365
+Bora-Thakkar,Dairy & Breakfast,20,88,26,878.17,702.54,382511,Butter,7
+"Borde, Peri and Upadhyay",Household Care,25,71,19,768.29,576.22,820541,Toilet Cleaner,365
+Bose-Pandit,Grocery & Staples,15,60,24,382.45,325.08,354409,Pulses,365
+"Chad, Yohannan and Chopra",Snacks & Munchies,35,71,23,1061.66,690.08,762527,Biscuits,90
+Chadha and Sons,Fruits & Vegetables,25,70,23,282.85,212.14,669378,Potatoes,3
+Chahal Group,Dairy & Breakfast,20,98,13,1237.35,989.88,883013,Eggs,7
+Chakrabarti-Batra,Instant & Frozen Food,40,72,13,549.65,329.79,623234,Frozen Biryani,180
+Chana LLC,Cold Drinks & Juices,30,73,16,378.41,264.89,712307,Orange Juice,180
+"Chanda, Som and Vohra",Snacks & Munchies,35,68,22,234.69,152.55,658389,Popcorn,90
+Chandran-Dass,Fruits & Vegetables,25,86,20,17.67,13.25,654297,Potatoes,3
+Char-Divan,Pharmacy,20,77,12,326.29,261.03,677169,Cough Syrup,365
+"Chaudhari, Pant and Singh",Snacks & Munchies,35,66,22,608.95,395.82,734789,Popcorn,90
+Chaudhuri PLC,Dairy & Breakfast,20,93,17,352.16,281.73,257719,Eggs,7
+Chauhan Inc,Instant & Frozen Food,40,73,14,89.15,53.49,187399,Frozen Pizza,180
+Chauhan-Sabharwal,Pet Care,35,64,14,760.26,494.17,373536,Dog Food,365
+Cherian-Dara,Grocery & Staples,15,83,14,489.12,415.75,876139,Pulses,365
+Chhabra-Agrawal,Fruits & Vegetables,25,69,26,1041.44,781.08,847349,Potatoes,3
+D’Alia-Dey,Cold Drinks & Juices,30,56,26,939.71,657.8,319388,Orange Juice,180
+Dalal PLC,Pharmacy,20,65,23,1080.37,864.3,137909,Cough Syrup,365
+Dalal-Shan,Personal Care,35,69,27,1350.88,878.07,63769,Lotion,365
+Dar-Kumar,Instant & Frozen Food,40,70,19,382.3,229.38,365132,Instant Noodles,180
+Dasgupta PLC,Dairy & Breakfast,20,98,25,681.86,545.49,337168,Eggs,7
+Dass and Sons,Cold Drinks & Juices,30,91,20,458.97,321.28,681063,Mango Drink,180
+Datta Ltd,Snacks & Munchies,35,90,25,456.83,296.94,914071,Chips,90
+"Dayal, Mammen and More",Household Care,25,55,17,1249.31,936.98,336847,Toilet Cleaner,365
+Deo-Kamdar,Grocery & Staples,15,71,12,400.42,340.36,901144,Sugar,365
+Deshpande-Rama,Grocery & Staples,15,95,29,44.47,37.8,131136,Salt,365
+Dhar PLC,Household Care,25,59,17,677.33,508,552496,Dish Soap,365
+Doctor-Patla,Pet Care,35,79,18,1365.35,887.48,726958,Cat Food,365
+Dora-Pillai,Baby Care,30,97,17,1233.11,863.18,432617,Baby Wipes,365
+"Doshi, Sarraf and Sama",Fruits & Vegetables,25,91,21,710.09,532.57,965755,Bananas,3
+Dubey-Sarin,Pet Care,35,73,28,919.86,597.91,120385,Pet Treats,365
+Dugar Group,Fruits & Vegetables,25,92,22,218.07,163.55,818990,Tomatoes,3
+Dutta Inc,Dairy & Breakfast,20,63,29,1198.76,959.01,455083,Butter,7
+Dutta-Halder,Household Care,25,100,10,1296.92,972.69,897083,Detergent,365
+"Dyal, Saraf and Goel",Pet Care,35,72,28,838.46,545,613942,Pet Treats,365
+Edwin and Sons,Pharmacy,20,82,22,271.75,217.4,837480,Cough Syrup,365
+Edwin-Lall,Household Care,25,72,21,91.32,68.49,133542,Detergent,365
+Gaba LLC,Pharmacy,20,51,12,1110.15,888.12,33797,Pain Reliever,365
+"Gaba, Sodhi and Choudhary",Household Care,25,84,24,530.07,397.55,604184,Toilet Cleaner,365
+"Gala, Magar and Rajagopal",Grocery & Staples,15,93,20,521.38,443.17,287070,Wheat Flour,365
+Ganesan Ltd,Fruits & Vegetables,25,70,25,1246.33,934.75,349294,Onions,3
+Gara and Sons,Dairy & Breakfast,20,64,17,906.05,724.84,376447,Butter,7
+"Garg, Kari and Kapur",Pharmacy,20,66,29,1065.02,852.02,799459,Vitamins,365
+"Garg, Saraf and Dutta",Baby Care,30,58,20,270.67,189.47,930284,Baby Food,365
+"Gera, Narang and Karpe",Household Care,25,59,14,1326.08,994.56,739534,Toilet Cleaner,365
+"Ghose, Ben and Divan",Grocery & Staples,15,97,15,365.52,310.69,461804,Sugar,365
+Goda Inc,Snacks & Munchies,35,99,26,349.57,227.22,961614,Chocolates,90
+"Gole, Chand and Dada",Dairy & Breakfast,20,69,27,528.59,422.87,833557,Cereal,7
+Gole-Doshi,Pharmacy,20,69,17,1244.97,995.98,264803,Vitamins,365
+Golla-Luthra,Snacks & Munchies,35,87,28,487.77,317.05,540618,Popcorn,90
+"Grewal, Swamy and Dayal",Grocery & Staples,15,100,30,720.05,612.04,764014,Salt,365
+Guha-Subramaniam,Snacks & Munchies,35,61,22,405.69,263.7,990993,Chocolates,90
+"Gulati, Ram and Sarkar",Household Care,25,70,13,102.81,77.11,94225,Toilet Cleaner,365
+Gulati-Tandon,Snacks & Munchies,35,66,11,392.85,255.35,542300,Popcorn,90
+Gupta Ltd,Cold Drinks & Juices,30,90,21,1249.69,874.78,561860,Orange Juice,180
+Handa PLC,Dairy & Breakfast,20,92,14,1138.05,910.44,41853,Curd,7
+Hans Inc,Household Care,25,60,25,1220.6,915.45,365133,Dish Soap,365
+Hayer-Banerjee,Pharmacy,20,86,24,721.41,577.13,237083,Cough Syrup,365
+Hayre-Shere,Cold Drinks & Juices,30,76,12,1226.53,858.57,328457,Mango Drink,180
+Hora-Roy,Dairy & Breakfast,20,90,12,120.11,96.09,818522,Cheese,7
+Jani-Ram,Snacks & Munchies,35,79,10,1279.12,831.43,832348,Biscuits,90
+Jha Group,Cold Drinks & Juices,30,91,20,617.14,432,890232,Mango Drink,180
+Jha Group,Snacks & Munchies,35,75,22,411.71,267.61,578097,Nuts,90
+"Jhaveri, Kata and Kapur",Grocery & Staples,15,52,24,732.72,622.81,644847,Salt,365
+"Kadakia, Mohan and Sathe",Personal Care,35,98,21,1461.12,949.73,803607,Soap,365
+Kadakia-Yadav,Snacks & Munchies,35,87,27,576.43,374.68,487065,Chips,90
+Kala Group,Dairy & Breakfast,20,81,27,1103.14,882.51,714999,Bread,7
+Kala-Vig,Snacks & Munchies,35,76,13,256.03,166.42,378230,Nuts,90
+Kanda-Gupta,Grocery & Staples,15,64,14,84.24,71.6,760684,Rice,365
+Kapadia-D’Alia,Dairy & Breakfast,20,66,18,399.17,319.34,659290,Cheese,7
+"Kara, Sodhi and Bassi",Instant & Frozen Food,40,64,27,567.77,340.66,969851,Frozen Vegetables,180
+Kara-Golla,Pharmacy,20,66,26,1040.07,832.06,114414,Vitamins,365
+"Karan, Bandi and Acharya",Cold Drinks & Juices,30,54,30,959.54,671.68,712003,Cola,180
+Karnik PLC,Baby Care,30,86,12,1330.87,931.61,51036,Baby Food,365
+Karpe Inc,Snacks & Munchies,35,98,28,855.92,556.35,491521,Nuts,90
+Kashyap-Reddy,Baby Care,30,81,11,337.87,236.51,6405,Baby Food,365
+Kaur-Gola,Personal Care,35,81,25,1034.97,672.73,672059,Toothpaste,365
+Keer-Gill,Household Care,25,92,18,54.27,40.7,968887,Dish Soap,365
+Khalsa-Bhavsar,Household Care,25,98,25,188.37,141.28,700048,Dish Soap,365
+Khurana and Sons,Grocery & Staples,15,93,28,114.16,97.04,937542,Wheat Flour,365
+"Khurana, Khosla and Yohannan",Pet Care,35,93,23,866.85,563.45,760828,Pet Treats,365
+Khurana-Dewan,Cold Drinks & Juices,30,68,20,1054.94,738.46,679321,Cola,180
+"Kibe, Contractor and Randhawa",Personal Care,35,85,23,1350.74,877.98,112390,Toothpaste,365
+Kohli-Sawhney,Instant & Frozen Food,40,57,27,1379.62,827.77,470449,Frozen Biryani,180
+Kothari-Datta,Instant & Frozen Food,40,51,17,77.7,46.62,689769,Frozen Vegetables,180
+"Krishna, Bail and Dyal",Pet Care,35,82,25,331.77,215.65,564692,Cat Food,365
+"Krishnamurthy, Sibal and Das",Snacks & Munchies,35,79,28,364.54,236.95,952168,Popcorn,90
+"Kunda, Dave and Sahni",Snacks & Munchies,35,64,20,1271.09,826.21,361361,Biscuits,90
+"Kurian, Patla and Sanghvi",Baby Care,30,84,19,1182.06,827.44,970529,Diapers,365
+Kurian-Chhabra,Pharmacy,20,72,25,982.09,785.67,123983,Cough Syrup,365
+"Lala, Kalita and Sathe",Dairy & Breakfast,20,95,23,388.59,310.87,329351,Cheese,7
+Lal-Chauhan,Pet Care,35,67,17,1081.09,702.71,537274,Pet Treats,365
+Lall LLC,Baby Care,30,56,29,163.6,114.52,820973,Baby Wipes,365
+"Lall, Datta and Swamy",Pet Care,35,97,14,1039.17,675.46,723678,Dog Food,365
+Lalla-Srinivasan,Household Care,25,82,11,216.89,162.67,144124,Detergent,365
+Loyal Inc,Baby Care,30,80,15,392.9,275.03,440875,Baby Wipes,365
+"Magar, Gara and Garg",Pharmacy,20,77,12,598.49,478.79,706112,Vitamins,365
+Mahal Group,Baby Care,30,58,27,459.04,321.33,433521,Diapers,365
+Majumdar PLC,Pet Care,35,95,28,1109.15,720.95,661577,Cat Food,365
+Malhotra LLC,Personal Care,35,59,24,263.38,171.2,140154,Shampoo,365
+Mallick PLC,Baby Care,30,73,12,1306.97,914.88,82484,Baby Food,365
+Mammen-Hegde,Instant & Frozen Food,40,81,22,1633.32,979.99,305754,Frozen Vegetables,180
+Mandal LLC,Personal Care,35,52,16,1413.2,918.58,366066,Soap,365
+Mandal-Kar,Fruits & Vegetables,25,74,27,1234.2,925.65,34186,Mangoes,3
+Mand-Choudhry,Household Care,25,79,24,1007.55,755.66,739448,Dish Soap,365
+Mangal-Sathe,Household Care,25,53,23,58.79,44.09,455755,Detergent,365
+Mani PLC,Dairy & Breakfast,20,69,11,616.49,493.19,891833,Curd,7
+"Mani, Dhar and Muni",Pet Care,35,68,21,748.12,486.28,425341,Pet Treats,365
+"Mannan, Naidu and Sama",Personal Care,35,100,17,616.8,400.92,256051,Lotion,365
+Mann-Kapadia,Snacks & Munchies,35,61,20,148.2,96.33,563740,Chips,90
+Memon Ltd,Household Care,25,71,13,1142.52,856.89,435929,Toilet Cleaner,365
+Memon-Barad,Grocery & Staples,15,85,14,409.31,347.91,679865,Wheat Flour,365
+"Minhas, Kapoor and Sethi",Pet Care,35,95,27,151.26,98.32,757274,Pet Treats,365
+Mital-Oza,Snacks & Munchies,35,87,12,365.57,237.62,991434,Cookies,90
+Mitter Group,Personal Care,35,77,25,665.22,432.39,859361,Shampoo,365
+Mohan Group,Fruits & Vegetables,25,96,25,842.27,631.7,70969,Carrots,3
+Mohan-Virk,Instant & Frozen Food,40,58,11,1027.42,616.45,954722,Ice Cream,180
+Morar-Mistry,Baby Care,30,100,27,242.69,169.88,4452,Baby Wipes,365
+Muni-Shankar,Household Care,25,92,27,530.24,397.68,36412,Dish Soap,365
+Munshi-Grewal,Personal Care,35,75,19,492,319.8,34200,Lotion,365
+Murthy-Kaul,Cold Drinks & Juices,30,74,24,185.73,130.01,962591,Orange Juice,180
+"Murty, Varghese and Saxena",Household Care,25,82,14,164.99,123.74,697683,Toilet Cleaner,365
+Nadig Ltd,Grocery & Staples,15,98,28,669.34,568.94,451933,Wheat Flour,365
+"Nadig, Zachariah and Soni",Instant & Frozen Food,40,56,11,1086.55,651.93,398340,Instant Noodles,180
+Nadkarni Inc,Grocery & Staples,15,65,22,1014.45,862.28,327290,Sugar,365
+Nagar LLC,Snacks & Munchies,35,90,12,643.82,418.48,567671,Biscuits,90
+"Nagi, Sampath and Khurana",Dairy & Breakfast,20,73,20,923.42,738.74,183929,Bread,7
+Naidu PLC,Personal Care,35,76,19,136.05,88.43,9436,Toothpaste,365
+Naik Ltd,Grocery & Staples,15,61,27,169.64,144.19,807452,Pulses,365
+Narayanan-Kumar,Pet Care,35,98,30,603.42,392.22,913428,Pet Treats,365
+Narula Group,Baby Care,30,60,15,609.6,426.72,927651,Baby Wipes,365
+Nazareth Ltd,Grocery & Staples,15,95,29,820.62,697.53,120532,Wheat Flour,365
+Padmanabhan-Virk,Dairy & Breakfast,20,66,13,1153.3,922.64,799952,Cheese,7
+"Pai, Kashyap and Ramachandran",Pharmacy,20,85,16,647.21,517.77,56589,Vitamins,365
+"Pall, Sule and Sood",Household Care,25,93,14,593.97,445.48,894539,Dish Soap,365
+Palla LLC,Cold Drinks & Juices,30,72,25,630.29,441.2,667163,Orange Juice,180
+Pal-Sehgal,Cold Drinks & Juices,30,58,28,1262.06,883.44,171602,Cola,180
+Pant LLC,Pharmacy,20,95,28,1097.36,877.89,679284,Cough Syrup,365
+"Parekh, Lad and Kadakia",Pet Care,35,75,13,1352,878.8,186168,Dog Food,365
+"Parikh, Oak and Kara",Household Care,25,58,24,257.95,193.46,704868,Detergent,365
+"Parmer, Gola and Yogi",Grocery & Staples,15,86,28,120.52,102.44,993331,Pulses,365
+Parsa-Bala,Pharmacy,20,92,28,894.65,715.72,851978,Vitamins,365
+Pau and Sons,Dairy & Breakfast,20,69,25,562.46,449.97,462526,Curd,7
+Pillay-Ahuja,Pet Care,35,57,16,795.43,517.03,642612,Pet Treats,365
+Pradhan and Sons,Snacks & Munchies,35,76,18,649.45,422.14,654623,Chips,90
+"Prakash, Bawa and Kale",Pharmacy,20,71,20,1028.29,822.63,444361,Pain Reliever,365
+Prasad LLC,Dairy & Breakfast,20,62,13,1154.8,923.84,741341,Eggs,7
+Purohit Group,Instant & Frozen Food,40,92,10,234.67,140.8,272170,Ice Cream,180
+Raghavan Inc,Grocery & Staples,15,71,20,646.44,549.47,490602,Sugar,365
+"Raghavan, Magar and Shanker",Dairy & Breakfast,20,75,15,1032.76,826.21,136533,Eggs,7
+Raj and Sons,Snacks & Munchies,35,50,22,549.88,357.42,587420,Cookies,90
+Raja and Sons,Pet Care,35,73,25,127.97,83.18,771228,Pet Treats,365
+"Ramakrishnan, Anand and Khare",Fruits & Vegetables,25,85,21,674.6,505.95,284460,Potatoes,3
+Ramakrishnan-Ghose,Fruits & Vegetables,25,88,28,1158.96,869.22,222892,Tomatoes,3
+Ramanathan Group,Pet Care,35,84,21,755.98,491.39,784673,Dog Food,365
+"Ramanathan, Agarwal and Baria",Grocery & Staples,15,72,20,491.05,417.39,721521,Rice,365
+"Ramanathan, Joshi and Srinivasan",Pharmacy,20,61,11,229.7,183.76,298985,Vitamins,365
+Ramaswamy-Tata,Fruits & Vegetables,25,65,20,169.55,127.16,11422,Potatoes,3
+Ramesh Inc,Household Care,25,87,12,1291.92,968.94,18035,Dish Soap,365
+Ramesh-Jain,Cold Drinks & Juices,30,51,22,475.49,332.84,378287,Lemonade,180
+Ram-Suri,Pharmacy,20,56,20,113.2,90.56,240179,Cough Syrup,365
+Ranganathan-Peri,Baby Care,30,94,21,1344.56,941.19,853932,Baby Wipes,365
+Rastogi Group,Grocery & Staples,15,63,22,233.12,198.15,317242,Pulses,365
+Rastogi Inc,Cold Drinks & Juices,30,52,26,603.19,422.23,513199,Cola,180
+Ratta-Sagar,Fruits & Vegetables,25,91,29,297.69,223.27,77308,Onions,3
+Rege Group,Fruits & Vegetables,25,63,11,555.53,416.65,812607,Potatoes,3
+Rout-Sarna,Dairy & Breakfast,20,53,19,73.24,58.59,217710,Eggs,7
+"Roy, Barad and De",Personal Care,35,67,12,123.46,80.25,490939,Lotion,365
+"Roy, Seth and Patla",Snacks & Munchies,35,56,15,1463.49,951.27,690565,Cookies,90
+Roy-Char,Dairy & Breakfast,20,54,29,1189.29,951.43,880510,Bread,7
+Sabharwal-Mital,Instant & Frozen Food,40,71,15,529.67,317.8,621677,Frozen Biryani,180
+Sachdev Group,Personal Care,35,71,23,61,39.65,124290,Lotion,365
+Sachdev Inc,Instant & Frozen Food,40,94,20,512.05,307.23,532965,Frozen Pizza,180
+Saha-Vora,Household Care,25,71,23,370.35,277.76,747801,Toilet Cleaner,365
+Saini LLC,Pet Care,35,100,25,486.18,316.02,52729,Cat Food,365
+"Sampath, Mane and Mody",Personal Care,35,50,21,1255.97,816.38,385113,Lotion,365
+Sandal PLC,Pet Care,35,65,28,1278.62,831.1,525531,Dog Food,365
+"Sangha, Nagar and Varty",Fruits & Vegetables,25,55,27,472.69,354.52,890623,Onions,3
+"Sankaran, Pall and Gola",Cold Drinks & Juices,30,58,22,454.03,317.82,687218,Mango Drink,180
+Sant-Mahajan,Personal Care,35,52,20,651.63,423.56,753354,Shampoo,365
+Sastry-Issac,Cold Drinks & Juices,30,86,11,1303.27,912.29,194682,Iced Tea,180
+"Sathe, Agarwal and Dhar",Personal Care,35,72,26,373.18,242.57,863930,Shampoo,365
+"Savant, Batta and Mander",Pharmacy,20,51,25,410.64,328.51,274207,Cough Syrup,365
+Sehgal-Nagarajan,Baby Care,30,73,11,321.73,225.21,953175,Baby Food,365
+Shah and Sons,Pharmacy,20,57,25,428.67,342.94,26060,Vitamins,365
+"Shankar, Nadkarni and Kumer",Fruits & Vegetables,25,50,25,1160.39,870.29,871592,Carrots,3
+"Sharma, Chandra and Prashad",Pet Care,35,50,13,1229.94,799.46,585299,Pet Treats,365
+"Shere, Thakur and Naik",Personal Care,35,95,30,74.69,48.55,449106,Soap,365
+Shetty and Sons,Dairy & Breakfast,20,59,11,602.04,481.63,839170,Curd,7
+Shetty-Bora,Dairy & Breakfast,20,79,20,690.25,552.2,67197,Butter,7
+"Shroff, Wason and Dugar",Pet Care,35,53,30,125.15,81.35,131748,Dog Food,365
+"Sibal, Bhatnagar and Rajan",Personal Care,35,50,22,1119.92,727.95,684939,Lotion,365
+Sidhu PLC,Dairy & Breakfast,20,76,26,760,608,324809,Bread,7
+"Sinha, Pau and Chhabra",Snacks & Munchies,35,68,16,1147.74,746.03,291238,Chocolates,90
+Som Inc,Instant & Frozen Food,40,54,11,1282.07,769.24,306177,Frozen Biryani,180
+Srinivas PLC,Baby Care,30,64,21,868.1,607.67,57405,Baby Food,365
+Subramaniam LLC,Dairy & Breakfast,20,78,12,264.06,211.25,798639,Eggs,7
+"Subramanian, Chaudhuri and Dora",Fruits & Vegetables,25,67,30,473.21,354.91,555121,Carrots,3
+Sundaram Inc,Pharmacy,20,53,14,1177.96,942.37,557908,Vitamins,365
+"Sura, Pillay and Mammen",Pharmacy,20,90,18,1002.26,801.81,587645,Vitamins,365
+"Suresh, Bose and Bajwa",Fruits & Vegetables,25,84,21,1262.48,946.86,39154,Mangoes,3
+"Swaminathan, Mahal and Dara",Snacks & Munchies,35,67,25,210.15,136.6,313754,Biscuits,90
+Talwar and Sons,Baby Care,30,52,18,1342.21,939.55,367391,Baby Wipes,365
+"Taneja, Kala and Kota",Snacks & Munchies,35,88,10,457.97,297.68,481843,Chocolates,90
+Tella-Master,Grocery & Staples,15,89,26,158.46,134.69,53833,Rice,365
+"Thakur, Shah and Pingle",Fruits & Vegetables,25,53,14,841.12,630.84,14145,Spinach,3
+Thaman-Lanka,Household Care,25,52,10,283.48,212.61,677542,Toilet Cleaner,365
+Toor-Nagar,Cold Drinks & Juices,30,74,11,24.09,16.86,962054,Orange Juice,180
+Trivedi-Ahluwalia,Dairy & Breakfast,20,87,24,193.12,154.5,500633,Cereal,7
+Uppal Group,Fruits & Vegetables,25,90,24,1100.61,825.46,478531,Carrots,3
+"Vaidya, Amble and Palla",Grocery & Staples,15,60,14,649.27,551.88,903336,Pulses,365
+Varkey LLC,Household Care,25,88,30,45.01,33.76,709916,Detergent,365
+"Varkey, Devi and Ganguly",Instant & Frozen Food,40,68,18,479.68,287.81,131937,Frozen Pizza,180
+Viswanathan-Sha,Instant & Frozen Food,40,66,23,791.73,475.04,925482,Frozen Biryani,180
+"Wable, Randhawa and Mutti",Fruits & Vegetables,25,82,27,971.64,728.73,397973,Bananas,3
+"Wable, Sankaran and Hari",Grocery & Staples,15,86,30,232.22,197.39,692985,Pulses,365
+"Wali, Sood and Bala",Fruits & Vegetables,25,50,15,169.44,127.08,952124,Onions,3
+"Wali, Virk and Iyer",Dairy & Breakfast,20,74,27,748.54,598.83,89084,Milk,7
+"Warrior, Ravel and Amble",Cold Drinks & Juices,30,61,12,17.6,12.32,118820,Iced Tea,180
+Yogi Group,Fruits & Vegetables,25,91,15,290,217.5,196719,Bananas,3
+Yohannan Inc,Snacks & Munchies,35,76,21,743.15,483.05,949818,Biscuits,90
